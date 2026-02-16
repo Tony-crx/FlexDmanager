@@ -23,7 +23,6 @@ A powerful and flexible system management tool for Linux and BSD operating syste
 ## Features
 
 ✨ **Core Features:**
-- 🔧 Advanced system configuration management
 - 📊 Real-time system monitoring and statistics
 - 🎛️ Process and resource management
 - 🔐 Secure file operations
